@@ -5,3 +5,5 @@ s3ls bucketname [region]
 
 region defaults to us-east-1 if unset.
 
+You can set your AWS credentials through all the standard methods, i.e. environment variables or a credential file.
+
